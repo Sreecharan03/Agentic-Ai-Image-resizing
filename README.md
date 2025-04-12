@@ -1,0 +1,1 @@
+# Agentic-Ai-Image-resizing
